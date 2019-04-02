@@ -1,0 +1,43 @@
+body{
+  background-color: pink;
+
+}
+.parent{
+  width:100%;
+  border:1px solid gray;
+  display: flex;
+  flex-wrap: wrap;
+}
+.career,.Skills{
+  width:90%;
+  border:1px solid gray;
+  margin:2%;
+  padding:3%;
+  text-align: center;
+  background-color: #A9BFDF;
+}
+.details{
+  width:40%;
+  margin:2%;
+  padding:2%;
+  border:1px solid gray;
+  background-color: #A9BFDF;
+}
+/* .Skills{
+  width:40%;
+  margin:2%;
+  padding:2%;
+  border:1px solid gray;
+  background-color: #A9BFDF;
+} */
+#button{
+  font-weight: bold;
+  font-size:20px;
+  margin:2%;
+
+
+}
+input,select{
+width:80%;
+margin:2%;
+}

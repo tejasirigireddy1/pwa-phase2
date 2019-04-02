@@ -1,0 +1,26 @@
+img{
+  width:300px;
+  height:300px;
+}
+.parent{
+  background: pink;
+  display:flex;
+  margin:1%;
+  padding: 1%;
+  justify-content: space-around;
+}
+.left{
+  background: #979A9A;
+  text-align: center;
+  margin:1%;
+  padding:1%;
+  width:30%;
+}
+.right{
+  background:#979A9A ;
+
+
+  margin:1%;
+  padding:1%;
+  width:55%;
+}
